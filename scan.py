@@ -9,7 +9,7 @@ from LIST.fr import *
 from LIST.kr import *
 from LIST.de import *
 from LIST.tr import *
-import requests,re,os
+import reqursts,re,os
 
 b="\033[0;34m"
 g="\033[1;32m"
